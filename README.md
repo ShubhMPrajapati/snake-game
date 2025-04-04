@@ -17,5 +17,4 @@ This is a **classic Snake game** implemented in Python using the **Turtle module
 ├── score.txt        # Stores high score
 └── README.md        # Project documentation
 
-![image](https://github.com/user-attachments/assets/c365b07c-c830-4601-a01c-382b162a4fb1)
 
